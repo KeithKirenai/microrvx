@@ -13,7 +13,7 @@ a minimal alternative to 3RVX built with native Win32 APIs.
 
 ## requirements
 
-- Windows 10 or newer
+- Windows 7 SP1 or newer (tested on win10)
 
 ## usage
 
