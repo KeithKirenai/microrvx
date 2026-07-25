@@ -4,6 +4,8 @@ ultra lightweight Windows volume overlay.
 
 a minimal alternative to 3RVX built with native Win32 APIs.
 
+<img width="320" height="46" alt="image" src="https://github.com/user-attachments/assets/db57c754-84ba-49da-9611-11ff4388f91d" />
+
 ## features
 
 - very low memory usage (~1 MB RAM)
